@@ -27,7 +27,7 @@ section {
 #landing img {
 	width: 75%;
 }
-#contact img {
+#contact a img {
 	width: 2em;
 }
 #landing, #about, #mywork, #contact {
