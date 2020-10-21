@@ -11,6 +11,9 @@ body {
 	margin-left: auto;
 	margin-right: auto;
 }
+h1, h2 {
+	text-align: center;
+}
 section {
 	margin-top: 1em;
 	margin-bottom: 1em;
