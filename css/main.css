@@ -1,6 +1,5 @@
 * {
-	margin:0;
-	padding:0;
+	margin: 0;
 }
 body {
 	color:#61483c;
@@ -13,6 +12,13 @@ body {
 }
 h1, #about p {
 	text-align: center;
+}
+ul {
+	width: 80%;
+	margin: auto;
+}
+ul li {
+	padding: 0.5em 0;
 }
 section {
 	margin-top: 1em;
