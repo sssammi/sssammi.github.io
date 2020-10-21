@@ -11,17 +11,23 @@ body {
 	margin-left: auto;
 	margin-right: auto;
 }
-#landing img {
-	width: 50%;
+section {
+	margin-top: 1em;
+	margin-bottom: 1em;
 }
-
+#landing img {
+	width: 100%;
+}
 #landing, #about, #mywork {
-	width: 50%;
+	width: 75%;
 	margin: 0 auto;
 	position: relative;
 }
+#landing, #mywork {
+	background-color: #8ddbe0;
+}
 #mywork img {
-	width: 50%;
+	width: 100%;
 }
 /*Footer*/
 footer{
