@@ -15,10 +15,13 @@ body {
 	width: 50%;
 }
 
-#landing, #about, #my-work{
+#landing, #about, #my-work {
 	width: 50%;
 	margin: 0 auto;
 	position: relative;
+}
+#my-work img {
+	width: 50%;
 }
 /*Footer*/
 footer{
