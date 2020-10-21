@@ -20,10 +20,10 @@ ul {
 ul li {
 	padding: 0.5em 0;
 }
-section {
+/* section {
 	margin-top: 1em;
 	margin-bottom: 1em;
-}
+} */
 #landing img {
 	width: 75%;
 }
@@ -41,6 +41,9 @@ section {
 }
 #mywork img {
 	width: 100%;
+}
+.contactlinks {
+	text-align: center;
 }
 /*Footer*/
 footer{
