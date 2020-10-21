@@ -27,7 +27,10 @@ section {
 #landing img {
 	width: 75%;
 }
-#landing, #about, #mywork {
+#contact img {
+	width: 2em;
+}
+#landing, #about, #mywork, #contact {
 	width: 75%;
 	margin: 0 auto;
 	padding: 1em;
