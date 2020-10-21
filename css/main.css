@@ -3,7 +3,6 @@
 	padding:0;
 }
 body {
-	font-size:80%;
 	color:#777777;
 	font-family: Arial;
 }
@@ -13,11 +12,11 @@ body {
 	margin-right: auto;
 }
 #landing img {
-	width: 80%;
+	width: 50%;
 }
 
 #landing, #about, #my-work{
-	width: 90%;
+	width: 50%;
 	margin: 0 auto;
 	position: relative;
 }
