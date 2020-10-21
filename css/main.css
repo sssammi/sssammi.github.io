@@ -3,7 +3,7 @@
 	padding:0;
 }
 body {
-	color:#777777;
+	color:#61483c;
 	font-family: Arial;
 }
 .center {
@@ -11,7 +11,7 @@ body {
 	margin-left: auto;
 	margin-right: auto;
 }
-h1, h2 {
+h1, #about p {
 	text-align: center;
 }
 section {
@@ -24,6 +24,7 @@ section {
 #landing, #about, #mywork {
 	width: 75%;
 	margin: 0 auto;
+	padding: 1em;
 	position: relative;
 }
 #landing, #mywork {
@@ -34,9 +35,9 @@ section {
 }
 /*Footer*/
 footer{
-	margin-bottom:1em;
-	text-align:center;
-	font-size:0.825em;
+	margin-bottom: 1em;
+	text-align: center;
+	font-size: 0.825em;
 }
 
 footer .line{
